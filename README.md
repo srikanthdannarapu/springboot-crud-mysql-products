@@ -1,1 +1,1 @@
-# springboot-crud-mysql-products
+# spring-boot-crud-example
